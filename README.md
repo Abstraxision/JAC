@@ -1,16 +1,5 @@
 # JAC
 lockingin
 
-
-
-GIT CLONE _
-Clones a repository to your local machine.
-
-GIT ADD .
-Adds all files to a commit.
-
-GIT COMMIT -M “_”
-Adds a message to your commit.
-
-GIT PUSH
-Pushes up your commit to GitHub. 
+**Update:** This is a side project of a friend teaching me how to formally use Github instead of playing by ear. 
+will fix the files later with the correct repo and clean up.
